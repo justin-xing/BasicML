@@ -1,2 +1,2 @@
 # BasicML
-Personal implementations of classic ML algorithms
+My personal implementations of classic ML algorithms.
